@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-26T07:07:07+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nets/</loc>
+    <lastmod>2024-08-26T07:07:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
