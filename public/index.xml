@@ -9,11 +9,25 @@
     <lastBuildDate>Mon, 26 Aug 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Location: The W6YL Shack is located in the Engineering building, room 376A, It is in the right-back corner of the IEEE club room. We currently have no set meeting times, please contact us on Discord if you want to visit.&#xA;Contacts: Discord: https://discord.gg/UrRy5gZx9N Student email: arc.SJSU@gmail.com Station Mgr email: redw6rtt@gmail.com</description>
+    </item>
+    <item>
       <title>Nets</title>
       <link>http://localhost:1313/nets/</link>
       <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/nets/</guid>
       <description>Tuesday UHF Net Every Tuesday at 15:00 on the W6YL SJSU Repeater&#xA;Thursday DMR Net Every Thursday at 15:00 on BrandMeister Talkgoup 1927</description>
+    </item>
+    <item>
+      <title>QSL Info</title>
+      <link>http://localhost:1313/qsl/</link>
+      <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/qsl/</guid>
+      <description>Please address all QSL cards to: SJSU - Elect. Eng. Dept. - W6YL One Washington Square San Jose, CA 95192-0084 USA&#xA;QSL Policy: We will try to send a QSL card for every contact, cost permitting. We currently do not have the means to send a S.A.S.E. with our cards.</description>
     </item>
     <item>
       <title>Repeaters</title>
