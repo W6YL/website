@@ -12,5 +12,6 @@ USA
 
 # QSL Policy:
 We will try to send a QSL card for every contact, cost permitting. \
-We currently do not have the means to send a S.A.S.E. with our cards.
+We currently do not have the means to send a S.A.S.E. with our cards. \
+We will not send a QSL card for an FT8 contact, unless requested.
 
