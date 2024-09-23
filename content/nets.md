@@ -8,5 +8,5 @@ draft = false
 Every Tuesday at 19:00 on the W6YL SJSU Repeater
 
 # Thursday DMR Net
-Every Thursday at 19:00 on BrandMeister Talkgoup 1927
+Every Thursday at 19:00 on BrandMeister Talkgoup 3199125
 
