@@ -13,28 +13,35 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Location: The W6YL Shack is located in the Engineering building, room 376A, It is in the right-back corner of the IEEE club room. We currently have no set meeting times, please contact us on Discord if you want to visit.&#xA;Contacts: Discord: https://discord.gg/UrRy5gZx9N Student email: arc.SJSU@gmail.com Station Mgr email: redw6rtt@gmail.com</description>
+      <description>&lt;h1 id=&#34;location&#34;&gt;Location:&lt;/h1&gt;&#xA;&lt;p&gt;The W6YL Shack is located in the Engineering building, room 376A, &lt;br&gt;&#xA;It is in the right-back corner of the IEEE club room. &lt;br&gt;&#xA;We currently have no set meeting times, please contact us on Discord if you want to visit.&lt;/p&gt;&#xA;&lt;h1 id=&#34;contacts&#34;&gt;Contacts:&lt;/h1&gt;&#xA;&lt;p&gt;Discord: &lt;a href=&#34;https://discord.gg/UrRy5gZx9N&#34;&gt;https://discord.gg/UrRy5gZx9N&lt;/a&gt; &lt;br&gt;&#xA;Student email: &lt;a href=&#34;mailto:arc.SJSU@gmail.com&#34;&gt;arc.SJSU@gmail.com&lt;/a&gt; &lt;br&gt;&#xA;Station Mgr email: &lt;a href=&#34;mailto:redw6rtt@gmail.com&#34;&gt;redw6rtt@gmail.com&lt;/a&gt; \&lt;/p&gt;&#xA;&lt;h1 id=&#34;leadership&#34;&gt;Leadership:&lt;/h1&gt;&#xA;&lt;p&gt;President: Henry Chen &lt;br&gt;&#xA;Vice President: Frigyes Erdosi Szucs &lt;br&gt;&#xA;Treasurer: Jason Tedja &lt;br&gt;&#xA;Secretary: John Woo \&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nets</title>
       <link>http://localhost:1313/nets/</link>
       <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/nets/</guid>
-      <description>Tuesday UHF Net Every Tuesday at 15:00 on the W6YL SJSU Repeater&#xA;Thursday DMR Net Every Thursday at 15:00 on BrandMeister Talkgoup 1927</description>
+      <description>&lt;h1 id=&#34;tuesday-uhf-net&#34;&gt;Tuesday UHF Net&lt;/h1&gt;&#xA;&lt;p&gt;Every Tuesday at 19:00 on the W6YL SJSU Repeater&lt;/p&gt;&#xA;&lt;h1 id=&#34;thursday-dmr-net&#34;&gt;Thursday DMR Net&lt;/h1&gt;&#xA;&lt;p&gt;Every Thursday at 19:00 on BrandMeister Talkgoup 3199125&lt;/p&gt;</description>
     </item>
     <item>
       <title>QSL Info</title>
       <link>http://localhost:1313/qsl/</link>
       <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/qsl/</guid>
-      <description>Please address all QSL cards to: SJSU - Elect. Eng. Dept. - W6YL One Washington Square San Jose, CA 95192-0084 USA&#xA;QSL Policy: We will try to send a QSL card for every contact, cost permitting. We currently do not have the means to send a S.A.S.E. with our cards.</description>
+      <description>&lt;h1 id=&#34;please-address-all-qsl-cards-to&#34;&gt;Please address all QSL cards to:&lt;/h1&gt;&#xA;&lt;p&gt;SJSU - Elect. Eng. Dept. - W6YL &lt;br&gt;&#xA;One Washington Square &lt;br&gt;&#xA;San Jose, CA 95192-0084 &lt;br&gt;&#xA;USA&lt;/p&gt;&#xA;&lt;h1 id=&#34;qsl-policy&#34;&gt;QSL Policy:&lt;/h1&gt;&#xA;&lt;p&gt;We will try to send a QSL card for every contact, cost permitting. &lt;br&gt;&#xA;We currently do not have the means to send a S.A.S.E. with our cards. &lt;br&gt;&#xA;We will not send a QSL card for an FT8 contact, unless requested.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Repeaters</title>
       <link>http://localhost:1313/repeaters/</link>
       <pubDate>Mon, 26 Aug 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/repeaters/</guid>
-      <description>Repeaters W6YL SJSU Repeater (UHF) Open to public, great coverage troughout the campus and surrounding areas. Located on top of Engineering building.&#xA;Frequency: 443.900 Tone: 100.00 Hz Offset: +5.000 MHz </description>
+      <description>&lt;h1 id=&#34;repeaters&#34;&gt;Repeaters&lt;/h1&gt;&#xA;&lt;h3 id=&#34;w6yl-sjsu-repeater-uhf&#34;&gt;W6YL SJSU Repeater (UHF)&lt;/h3&gt;&#xA;&lt;p&gt;Open to public, great coverage troughout the campus and surrounding areas. &lt;br&gt;&#xA;Located on top of Engineering building.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Frequency:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;443.900&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Tone:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;100.00 Hz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Offset:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;+5.000 MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;p&gt;Our club has won countless awards:&#xA;&lt;img src=&#34;http://localhost:1313/static/img/awards/arrl-10m-1977.jpeg&#34; alt=&#34;Example image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/static/img/awards/arrls-sscw-1997.jpeg&#34; alt=&#34;Example image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/static/img/awards/arrls-ssph-1997.jpeg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

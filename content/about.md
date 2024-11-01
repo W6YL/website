@@ -18,4 +18,4 @@ Station Mgr email: redw6rtt@gmail.com \
 President: Henry Chen \
 Vice President: Frigyes Erdosi Szucs \
 Treasurer: Jason Tedja \
-Secretary: John Woo \
+Secretary: John Woo
