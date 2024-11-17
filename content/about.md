@@ -18,4 +18,4 @@ Phone Number: +1 (980) ANTENNA ext 205
 President: Henry Chen \
 Vice President: Frigyes Erdosi Szucs \
 Treasurer: Jason Tedja \
-Secretary: John Woo \
+Secretary: John Woo 
