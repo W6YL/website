@@ -11,11 +11,11 @@ We currently have no set meeting times, please contact us on Discord if you want
 
 # Contacts:
 Discord: https://discord.gg/UrRy5gZx9N \
-Student email: arc.SJSU@gmail.com \
-Station Mgr email: redw6rtt@gmail.com \
+Email Address: arc@w6yl.org \
+Phone Number: +1 (980) ANTENNA ext 205
 
 # Leadership:
 President: Henry Chen \
 Vice President: Frigyes Erdosi Szucs \
 Treasurer: Jason Tedja \
-Secretary: John Woo
+Secretary: John Woo 
