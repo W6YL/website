@@ -9,4 +9,4 @@ draft = false
 
 Field day June 28th from 10AM at 550 Vista Ridge Dr, Milpitas, CA 95035
 
-<img src="/img/ARC_Seal_1929.png" alt="drawing" width="50%"/>
+<img src="/img/ARC_Seal_B_1929.png" alt="drawing" width="50%"/>
