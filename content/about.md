@@ -10,7 +10,9 @@ It is in the right-back corner of the IEEE club room. \
 We currently have no set meeting times, please contact us on Discord if you want to visit.
 
 # Meetings:
-The W6YL club meets every thursday from 15:00 to 16:00 Local Time. The meetings are held at the Shack as described above. During the meetings we discuss club business as well as provide prospective members to check out the club.
+The W6YL club meets every thursday from 15:00 to 16:00 Local Time. The meetings are held at the Shack as described above. During the meetings we discuss club business as well as provide prospective members to check out the club. \
+
+Metings are suspended for the summer
 
 # Contacts:
 Discord: https://discord.gg/UrRy5gZx9N \
