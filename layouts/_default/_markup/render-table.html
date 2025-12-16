@@ -1,0 +1,105 @@
+{{- $attrs := .Attributes -}}
+
+{{/* Read any user-provided classes */}}
+{{- $userClass := index $attrs "class" | default "" -}}
+{{- $classList := split $userClass " " -}}
+
+{{/* Decide if this is a "nice" table */}}
+{{- $isNice := in $classList "nice-table" -}}
+
+{{ if $isNice }}
+  {{/* --- NICE TABLE VERSION --- */}}
+
+  {{/* Build the final classes: keep user classes, ensure nice-table is present */}}
+  {{- $classes := slice -}}
+  {{- range $classList }}
+    {{- if . }}
+      {{- $classes = $classes | append . -}}
+    {{- end }}
+  {{- end }}
+  {{- if not (in $classes "nice-table") }}
+    {{- $classes = $classes | append "nice-table" -}}
+  {{- end }}
+
+  <div class="table-wrapper">
+    <table
+      class="{{ delimit $classes " " }}"
+      {{- range $name, $value := $attrs -}}
+        {{- if ne $name "class" -}}
+          {{- printf " %s=%q" $name $value | safeHTMLAttr -}}
+        {{- end -}}
+      {{- end -}}
+    >
+      <thead>
+        {{- range .THead }}
+          <tr>
+            {{- range . }}
+              <th
+                {{- with .Alignment }}
+                  {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+                {{- end -}}
+              >
+                {{- .Text -}}
+              </th>
+            {{- end }}
+          </tr>
+        {{- end }}
+      </thead>
+      <tbody>
+        {{- range .TBody }}
+          <tr>
+            {{- range . }}
+              <td
+                {{- with .Alignment }}
+                  {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+                {{- end -}}
+              >
+                {{- .Text -}}
+              </td>
+            {{- end }}
+          </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  </div>
+
+{{ else }}
+  {{/* --- PLAIN TABLE VERSION (no wrapper, no forced class) --- */}}
+
+  <table
+    {{- range $name, $value := $attrs -}}
+      {{- printf " %s=%q" $name $value | safeHTMLAttr -}}
+    {{- end -}}
+  >
+    <thead>
+      {{- range .THead }}
+        <tr>
+          {{- range . }}
+            <th
+              {{- with .Alignment }}
+                {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+              {{- end -}}
+            >
+              {{- .Text -}}
+            </th>
+          {{- end }}
+        </tr>
+      {{- end }}
+    </thead>
+    <tbody>
+      {{- range .TBody }}
+        <tr>
+          {{- range . }}
+            <td
+              {{- with .Alignment }}
+                {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+              {{- end -}}
+            >
+              {{- .Text -}}
+            </td>
+          {{- end }}
+        </tr>
+      {{- end }}
+    </tbody>
+  </table>
+{{ end }}

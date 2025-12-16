@@ -2,5 +2,10 @@ baseURL = 'https://w6yl.org/'
 languageCode = 'en-us'
 title = 'W6YL - SJSU Amateur Radio Club'
 [markup]
+  [markup.goldmark]
     [markup.goldmark.renderer]
-        unsafe = true
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
