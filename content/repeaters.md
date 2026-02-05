@@ -39,6 +39,7 @@ Please do not send an MDC emergency alert unless there is an actual emergency, a
 |  B25   | QRZ TURQUOISE | Frici KB4RKS |   XPR 7550e      |
 |  B26   | Jack's XTS2500 |   Loaner    | XTS 2500 v1.5    |
 |  B27   | Jack's XTS5000 |   Loaner    | XTS 5000 v3      |
+|  B28   | Pebble |   Pavel KN6HIQ    | R7      |
 {.nice-table}
 
 Please contact Jack WA6CR (jack@w6yl.org) if you are interested in using MDC on our system, and we will allocate you an MDC ID. 
