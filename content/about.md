@@ -7,10 +7,10 @@ draft = false
 # Location:
 The W6YL Shack is located in the Engineering building, room 376A, \
 It is in the right-back corner of the IEEE club room. \
-We currently have no set meeting times, please contact us on Discord if you want to visit.
+We currently have no set shack open hours, please contact us on Discord if you want to visit.
 
 # Meetings:
-The W6YL club meets every Friday from 17:00 to 18:00 Local Time (updated for Fall 2025). The meetings are held at the Shack as described above. During the meetings we discuss club business as well as provide prospective members to check out the club. \
+The W6YL club meets every Tuesday from 16:30 to 17:30 Local Time (updated for Fall 2026). The meetings are held at the Shack as described above. During the meetings we discuss club business as well as provide prospective members to check out the club. \
 
 Metings are suspended for the summer
 
@@ -21,8 +21,6 @@ Please use arc@w6yl.org to contac us. Emails sent to this address are forwarded 
 Station Mgr email: redw6rtt@gmail.com
 
 # Leadership:
-President: Henry Chen \
-Vice President: Frigyes Erdosi Szucs \
-Treasurer: Jason Tedja \
-Secretary: John Woo \
+President: Frigyes Erdosi Szucs \
+Treasurer: <TBD> \
 Station Manager: Red
