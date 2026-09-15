@@ -34,5 +34,5 @@ are forwarded to the club officers so someone can respond.
 # Club Leadership
 
 **President:** Frigyes Erdosi Szucs  
-**Treasurer:** Erik Bergh
+**Treasurer:** Erik Bergh  
 **Station Manager:** Red
