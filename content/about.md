@@ -4,25 +4,35 @@ date = 2024-08-26T07:07:07+01:00
 draft = false
 +++
 
-# Location:
-The W6YL Shack is located in the Engineering building, room 376A, \
-It is in the right-back corner of the IEEE club room. \
-We currently have no set shack open hours, please contact us on Discord if you want to visit.
+# Visit the W6YL Station
 
-# Meetings:
-The W6YL club meets every Tuesday from 16:30 to 17:30 Local Time (updated for Fall 2026). The meetings are held at the Shack as described above. During the meetings we discuss club business as well as provide prospective members to check out the club.
+The W6YL station, often called the "shack," is located in Engineering 376A,
+in the back-right corner of the IEEE club room.
 
-Metings are suspended for the summer
+We do not currently have regular station open hours. If you would like to
+visit, contact us on Discord or email arc@w6yl.org.
 
-# Contacts:
-Discord: https://discord.gg/UrRy5gZx9N \
-IRC: https://irc.w6yl.org — bridged to our Discord \
-Main email: arc@w6yl.org \
-Station Mgr email: redw6rtt@gmail.com
+# Club Meetings
 
-Please use arc@w6yl.org to contact us. Emails sent to this address are forwarded to ALL our officers so we can ensure your email is acknowledged as efficiently as possible
+W6YL meets every Tuesday from **4:30–5:30 p.m.** during the Fall 2026 semester.
 
-# Leadership:
-President: Frigyes Erdosi Szucs \
-Treasurer: <TBD> \
-Station Manager: Red
+Meetings are held at the W6YL station in Engineering 376A. We discuss club
+activities, work on projects and give new and prospective members an
+opportunity to explore the station and learn about amateur radio.
+
+Meetings are generally suspended during summer break.
+
+# Contact Us
+
+**Email:** arc@w6yl.org  
+**Discord:** [Join the W6YL Discord](https://discord.gg/UrRy5gZx9N)  
+**IRC:** irc.w6yl.org — bridged to our Discord
+
+For general questions, please use arc@w6yl.org. Messages sent to this address
+are forwarded to the club officers so someone can respond.
+
+# Club Leadership
+
+**President:** Frigyes Erdosi Szucs  
+**Treasurer:** Erik Bergh
+**Station Manager:** Red
