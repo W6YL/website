@@ -1,0 +1,13 @@
+.page-content img {
+  display: block;
+  height: auto;
+  margin-inline: auto;
+  max-width: 75%;
+}
+
+@media (max-width: 600px) {
+  .page-content img {
+    max-width: 100%;
+    width: 100%;
+  }
+}

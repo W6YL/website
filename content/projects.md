@@ -23,3 +23,5 @@ Activities may include:
 
 Check back for updates on current club projects, or join us at a Tuesday
 meeting to get involved.
+
+We do Balloons! Check it ou! [balloons](../balloons)
