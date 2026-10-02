@@ -1,0 +1,112 @@
+.site-menu {
+  position: relative;
+  background: #0055a2;
+  padding: 0 1rem;
+}
+
+.menu-links {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  max-width: 1200px;
+  min-height: 68px;
+  margin: 0 auto;
+}
+
+.menu-links a {
+  display: flex;
+  align-items: center;
+  padding: 0.8rem 1.1rem;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.menu-links a:hover,
+.menu-links a:focus-visible {
+  color: #0055a2;
+  background: #e5a823;
+}
+
+.menu-toggle {
+  display: none;
+}
+
+.menu-toggle-icon,
+.menu-toggle-icon::before,
+.menu-toggle-icon::after {
+  display: block;
+  width: 1.25rem;
+  height: 2px;
+  background: currentColor;
+}
+
+.menu-toggle-icon {
+  position: relative;
+}
+
+.menu-toggle-icon::before,
+.menu-toggle-icon::after {
+  position: absolute;
+  left: 0;
+  content: "";
+}
+
+.menu-toggle-icon::before {
+  top: -6px;
+}
+
+.menu-toggle-icon::after {
+  top: 6px;
+}
+
+@media (max-width: 640px) {
+  .site-menu {
+    min-height: 56px;
+    padding: 0.4rem 0.75rem;
+  }
+
+  .menu-toggle {
+    display: none;
+    align-items: center;
+    gap: 0.75rem;
+    min-height: 48px;
+    padding: 0 0.8rem;
+    border: 0;
+    background: transparent;
+    color: #fff;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .site-menu.is-enhanced .menu-toggle {
+    display: flex;
+  }
+
+  .menu-links {
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  .site-menu.is-enhanced .menu-links {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    top: 100%;
+    right: 0;
+    left: 0;
+    max-width: none;
+    background: #0055a2;
+  }
+
+  .site-menu.is-enhanced.is-open .menu-links {
+    display: flex;
+  }
+
+  .menu-links a {
+    min-height: 48px;
+    padding: 0.7rem 1.5rem;
+  }
+}
