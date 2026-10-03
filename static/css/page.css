@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+main {
+  padding: 0 1rem;
+  margin: auto;
+}
+
+.heading-anchor {
+  margin-left: 0.3em;
+}
+
+@media (hover: hover) {
+  h1 > .heading-anchor,
+  h2 > .heading-anchor,
+  h3 > .heading-anchor,
+  h4 > .heading-anchor,
+  h5 > .heading-anchor {
+    visibility: collapse;
+  }
+
+  h1:hover > .heading-anchor,
+  h2:hover > .heading-anchor,
+  h3:hover > .heading-anchor,
+  h4:hover > .heading-anchor,
+  h5:hover > .heading-anchor {
+    visibility: visible;
+  }
+}
