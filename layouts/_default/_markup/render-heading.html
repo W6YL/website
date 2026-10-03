@@ -1,0 +1,5 @@
+<!-- https://oostens.me/posts/hugo--js-copy-heading-links/ -->
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">
+    {{ .Text | safeHTML }}
+    <a class="heading-anchor" href="#{{ .Anchor | safeURL }}">¶</a>
+</h{{ .Level }}>
